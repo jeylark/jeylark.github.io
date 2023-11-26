@@ -1,0 +1,294 @@
+{
+    "itemCategories": [
+        {
+            "name": "Farben",
+            "items": [
+                {
+                    "name": "Primary / Secondary Color",
+                    "prices": [
+                        {
+                            "name": "small",
+                            "price": 500
+                        },
+                        {
+                            "name": "medium",
+                            "price": 750
+                        },
+                        {
+                            "name": "large",
+                            "price": 950
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Reifen",
+            "items": [
+                {
+                    "name": "Stock",
+                    "price": 1200
+                },
+                {
+                    "name": "Sport",
+                    "price": 1200
+                },
+                {
+                    "name": "Muscle",
+                    "price": 1200
+                },
+                {
+                    "name": "Lowrider",
+                    "price": 1200
+                },
+                {
+                    "name": "SUV",
+                    "price": 1200
+                },
+                {
+                    "name": "Offroad",
+                    "price": 1200
+                },
+                {
+                    "name": "Tuner",
+                    "price": 1200
+                },
+                {
+                    "name": "High End",
+                    "price": 1600
+                },
+                {
+                    "name": "BennysOriginal",
+                    "price": 2000
+                },
+                {
+                    "name": "BennysBespoke",
+                    "price": 2500
+                },
+                {
+                    "name": "Street",
+                    "price": 1500
+                }
+            ]
+        },
+        {
+            "name": "Aussehen",
+            "items": [
+                {
+                    "name": "Vordere Stoßstange",
+                    "price": 250
+                },
+                {
+                    "name": "Hintere Stoßstange",
+                    "price": 250
+                },
+                {
+                    "name": "Seitenverkleidung",
+                    "price": 250
+                },
+                {
+                    "name": "Kotflügel",
+                    "price": 250
+                },
+                {
+                    "name": "Kotflügel-R",
+                    "price": 250
+                },
+                {
+                    "name": "Auspuff",
+                    "price": 500
+                },
+                {
+                    "name": "Spoiler",
+                    "price": 500
+                }
+            ]
+        },
+        {
+            "name": "Aussehen 2",
+            "items": [
+                {
+                    "name": "Rahmen",
+                    "price": 1500
+                },
+                {
+                    "name": "Gitter",
+                    "price": 150
+                },
+                {
+                    "name": "Motorhaube",
+                    "price": 500
+                },
+                {
+                    "name": "Dach",
+                    "price": 800
+                },
+                {
+                    "name": "Livery",
+                    "price": 1500
+                }
+            ]
+        },
+        {
+            "name": "Leistung",
+            "items": [
+                {
+                    "name": "Motor",
+                    "prices": [
+                        {
+                            "name": "Stufe 0",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Stufe 1",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Stufe 2",
+                            "price": 3000
+                        },
+                        {
+                            "name": "Stufe 3",
+                            "price": 4000
+                        }
+                    ]
+                },
+                {
+                    "name": "Bremsen",
+                    "prices": [
+                        {
+                            "name": "Stufe 0",
+                            "price": 250
+                        },
+                        {
+                            "name": "Stufe 1",
+                            "price": 500
+                        },
+                        {
+                            "name": "Stufe 2",
+                            "price": 750
+                        }
+                    ]
+                },
+                {
+                    "name": "Getriebe",
+                    "prices": [
+                        {
+                            "name": "Stufe 0",
+                            "price": 500
+                        },
+                        {
+                            "name": "Stufe 1",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Stufe 2",
+                            "price": 1500
+                        }
+                    ]
+                },
+                {
+                    "name": "Federung",
+                    "prices": [
+                        {
+                            "name": "Stufe 0",
+                            "price": 500
+                        },
+                        {
+                            "name": "Stufe 1",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Stufe 2",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Stufe 3",
+                            "price": 2000
+                        }
+                    ]
+                },
+                {
+                    "name": "Turbo",
+                    "price": 1000
+                }
+            ]
+        },
+        {
+            "name": "Extras",
+            "items": [
+                {
+                    "name": "Fenster",
+                    "prices": [
+                        {
+                            "name": "Stufe 1",
+                            "price": 750
+                        },
+                        {
+                            "name": "Stufe 2",
+                            "price": 500
+                        },
+                        {
+                            "name": "Stufe 3",
+                            "price": 250
+                        },
+                        {
+                            "name": "Stufe 5",
+                            "price": 750
+                        }
+                    ]
+                },
+                {
+                    "name": "Trim (Interior)",
+                    "price": 1500
+                },
+                {
+                    "name": "Trim (Interior) Color",
+                    "price": 1000
+                },
+                {
+                    "name": "Xenon",
+                    "price": 250
+                },
+                {
+                    "name": "Nummernschild",
+                    "price": 100
+                }
+            ]
+        },
+        {
+            "name": "Spezials",
+            "items": [
+                {
+                    "name": "Ornaments",
+                    "price": 100
+                },
+                {
+                    "name": "DialDesign",
+                    "price": 250
+                },
+                {
+                    "name": "ShiftLever",
+                    "price": 150
+                },
+                {
+                    "name": "Plaques",
+                    "price": 100
+                },
+                {
+                    "name": "DashboardColor",
+                    "price": 1000
+                }
+            ]
+        },
+        {
+            "name": "Neon",
+            "items": [
+                {
+                    "name": "Farbig",
+                    "price": 1500
+                }
+            ]
+        }
+    ]
+}
