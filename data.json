@@ -21,7 +21,7 @@
                     ]
                 },
                 {
-                    "name": "Pearl Color",
+                    "name": "PearlColor",
                     "price": 200
                 }
             ]
@@ -248,11 +248,11 @@
                     ]
                 },
                 {
-                    "name": "Trim (Interior)",
+                    "name": "Trim",
                     "price": 1500
                 },
                 {
-                    "name": "Trim (Interior) Color",
+                    "name": "Trim Color",
                     "price": 1000
                 },
                 {
@@ -266,7 +266,7 @@
             ]
         },
         {
-            "name": "Spezials",
+            "name": "Spezial",
             "items": [
                 {
                     "name": "Ornaments",
@@ -275,6 +275,10 @@
                 {
                     "name": "DialDesign",
                     "price": 250
+                },
+                {
+                    "name": "SteeringWheel",
+                    "price": 0
                 },
                 {
                     "name": "ShiftLever",
@@ -287,6 +291,23 @@
                 {
                     "name": "DashboardColor",
                     "price": 1000
+                }
+            ]
+        },
+        {
+            "name": "Spezial 2",
+            "items": [
+                {
+                    "name": "Trunks",
+                    "price": 0
+                },
+                {
+                    "name": "ArchCovers",
+                    "price": 0
+                },
+                {
+                    "name": "Aerials",
+                    "price": 0
                 }
             ]
         },
