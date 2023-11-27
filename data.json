@@ -4,7 +4,7 @@
             "name": "Farben",
             "items": [
                 {
-                    "name": "Primary / Secondary Color",
+                    "name": "Pri. / Sec. Color",
                     "prices": [
                         {
                             "name": "small",
@@ -19,6 +19,10 @@
                             "price": 950
                         }
                     ]
+                },
+                {
+                    "name": "Pearl Color",
+                    "price": 200
                 }
             ]
         },
@@ -26,48 +30,53 @@
             "name": "Reifen",
             "items": [
                 {
-                    "name": "Stock",
-                    "price": 1200
-                },
-                {
-                    "name": "Sport",
-                    "price": 1200
-                },
-                {
-                    "name": "Muscle",
-                    "price": 1200
-                },
-                {
-                    "name": "Lowrider",
-                    "price": 1200
-                },
-                {
-                    "name": "SUV",
-                    "price": 1200
-                },
-                {
-                    "name": "Offroad",
-                    "price": 1200
-                },
-                {
-                    "name": "Tuner",
-                    "price": 1200
-                },
-                {
-                    "name": "High End",
-                    "price": 1600
-                },
-                {
-                    "name": "BennysOriginal",
-                    "price": 2000
-                },
-                {
-                    "name": "BennysBespoke",
-                    "price": 2500
-                },
-                {
-                    "name": "Street",
-                    "price": 1500
+                    "name": "Reifen",
+                    "prices": [
+                        {
+                            "name": "Stock",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Sport",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Muscle",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Lowrider",
+                            "price": 1200
+                        },
+                        {
+                            "name": "SUV",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Offroad",
+                            "price": 1200
+                        },
+                        {
+                            "name": "Tuner",
+                            "price": 1200
+                        },
+                        {
+                            "name": "High End",
+                            "price": 1600
+                        },
+                        {
+                            "name": "BennysOriginal",
+                            "price": 2000
+                        },
+                        {
+                            "name": "BennysBespoke",
+                            "price": 2500
+                        },
+                        {
+                            "name": "Street",
+                            "price": 1500
+                        }
+                    ]
                 }
             ]
         },
