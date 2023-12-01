@@ -78,8 +78,12 @@
                             "price": 1500
                         }
                     ]
-                }
-            ]
+                },
+				{
+					"name": "Felgen umlackieren",
+					"price": 350
+				}
+			]
         },
         {
             "name": "Aussehen",
@@ -279,7 +283,7 @@
                 },
                 {
                     "name": "SteeringWheel",
-                    "price": 0
+                    "price": 250
                 },
                 {
                     "name": "ShiftLever",
@@ -300,15 +304,15 @@
             "items": [
                 {
                     "name": "Trunks",
-                    "price": 0
+                    "price": 250
                 },
                 {
                     "name": "ArchCovers",
-                    "price": 0
+                    "price": 250
                 },
                 {
                     "name": "Aerials",
-                    "price": 0
+                    "price": 100
                 }
             ]
         },
@@ -316,9 +320,13 @@
             "name": "Neon",
             "items": [
                 {
-                    "name": "Farbig",
+                    "name": "Einbauen (neu)",
                     "price": 1500
-                }
+                },
+				{
+					"name": "Farbe ändern",
+					"price": 250
+				}
             ]
         }
     ]
