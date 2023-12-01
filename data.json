@@ -79,11 +79,11 @@
                         }
                     ]
                 },
-				{
-					"name": "Felgen umlackieren",
-					"price": 350
-				}
-			]
+                {
+                    "name": "Felgen umlackieren",
+                    "price": 350
+                }
+            ]
         },
         {
             "name": "Aussehen",
@@ -323,10 +323,10 @@
                     "name": "Einbauen (neu)",
                     "price": 1500
                 },
-				{
-					"name": "Farbe ändern",
-					"price": 250
-				}
+                {
+                    "name": "Farbe ändern",
+                    "price": 250
+                }
             ]
         }
     ]
