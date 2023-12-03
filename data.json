@@ -150,81 +150,62 @@
                     "name": "Motor",
                     "prices": [
                         {
-                            "name": "Stufe 0",
-                            "price": 1000
-                        },
-                        {
-                            "name": "Stufe 1",
-                            "price": 2000
-                        },
-                        {
-                            "name": "Stufe 2",
-                            "price": 3000
-                        },
-                        {
-                            "name": "Stufe 3",
+                            "name": "Einbauen",
                             "price": 4000
+                        },
+                        {
+                            "name": "Stufe Anpassen",
+                            "price": 1000
                         }
-                    ]
+                    ],
+                    "isAffectedByMultiplier": true
                 },
                 {
                     "name": "Bremsen",
                     "prices": [
                         {
-                            "name": "Stufe 0",
-                            "price": 250
-                        },
-                        {
-                            "name": "Stufe 1",
-                            "price": 500
-                        },
-                        {
-                            "name": "Stufe 2",
+                            "name": "Einbauen",
                             "price": 750
+                        },
+                        {
+                            "name": "Stufe Anpassen",
+                            "price": 200
                         }
-                    ]
+                    ],
+                    "isAffectedByMultiplier": true
                 },
                 {
                     "name": "Getriebe",
                     "prices": [
                         {
-                            "name": "Stufe 0",
-                            "price": 500
-                        },
-                        {
-                            "name": "Stufe 1",
-                            "price": 1000
-                        },
-                        {
-                            "name": "Stufe 2",
+                            "name": "Einbauen",
                             "price": 1500
+                        },
+                        {
+                            "name": "Stufe Anpassen",
+                            "price": 350
                         }
-                    ]
+                    ],
+                    "isAffectedByMultiplier": true
                 },
                 {
                     "name": "Federung",
                     "prices": [
                         {
-                            "name": "Stufe 0",
-                            "price": 500
-                        },
-                        {
-                            "name": "Stufe 1",
-                            "price": 1000
-                        },
-                        {
-                            "name": "Stufe 2",
-                            "price": 1500
-                        },
-                        {
-                            "name": "Stufe 3",
+                            "name": "Einbauen",
                             "price": 2000
+                        },
+                        {
+                            "name": "Stufe Anpassen",
+                            "price": 500
                         }
-                    ]
+                    ],
+                    "isAffectedByMultiplier": true
                 },
                 {
                     "name": "Turbo",
-                    "price": 1000
+                    "price": 1000,
+                    "isAffectedByMultiplier": true
                 }
             ]
         },
@@ -233,24 +214,7 @@
             "items": [
                 {
                     "name": "Fenster",
-                    "prices": [
-                        {
-                            "name": "Stufe 1",
-                            "price": 750
-                        },
-                        {
-                            "name": "Stufe 2",
-                            "price": 500
-                        },
-                        {
-                            "name": "Stufe 3",
-                            "price": 250
-                        },
-                        {
-                            "name": "Stufe 5",
-                            "price": 750
-                        }
-                    ]
+                    "price": 750
                 },
                 {
                     "name": "Trim",
@@ -259,6 +223,10 @@
                 {
                     "name": "Trim Color",
                     "price": 1000
+                },
+                {
+                    "name": "Hydraulik",
+                    "price": 7500
                 },
                 {
                     "name": "Xenon",
@@ -328,6 +296,20 @@
                     "price": 250
                 }
             ]
+        }
+    ],
+    "multipliers": [
+        {
+            "name": "Normal (≥10k, <200k)",
+            "factor": 1
+        },
+        {
+            "name": "Billig (<10k)",
+            "factor": 0.25
+        },
+        {
+            "name": "Teuer (≥200k)",
+            "factor": 1.5
         }
     ]
 }
