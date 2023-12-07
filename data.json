@@ -66,11 +66,13 @@
                             "name": "Street",
                             "price": 1500
                         }
-                    ]
+                    ],
+					"isAffectedByMultiplier": true
                 },
                 {
                     "name": "Felgen umlackieren",
-                    "price": 250
+                    "price": 250,
+					"isAffectedByMultiplier": true
                 }
             ]
         },
