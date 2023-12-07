@@ -6,24 +6,13 @@
             "items": [
                 {
                     "name": "Pri. / Sec. Color",
-                    "prices": [
-                        {
-                            "name": "small",
-                            "price": 500
-                        },
-                        {
-                            "name": "medium",
-                            "price": 750
-                        },
-                        {
-                            "name": "large",
-                            "price": 950
-                        }
-                    ]
+                    "price": 1000,
+                    "isAffectedByMultiplier": true
                 },
                 {
                     "name": "PearlColor",
-                    "price": 200
+                    "price": 1000,
+                    "isAffectedByMultiplier": true
                 }
             ]
         },
@@ -32,38 +21,38 @@
             "items": [
                 {
                     "name": "Reifen",
-                    "prices": [
+                    "price": [
                         {
                             "name": "Stock",
-                            "price": 1200
+                            "price": 1000
                         },
                         {
                             "name": "Sport",
-                            "price": 1200
+                            "price": 1500
                         },
                         {
                             "name": "Muscle",
-                            "price": 1200
+                            "price": 1000
                         },
                         {
                             "name": "Lowrider",
-                            "price": 1200
+                            "price": 1000
                         },
                         {
                             "name": "SUV",
-                            "price": 1200
+                            "price": 1000
                         },
                         {
                             "name": "Offroad",
-                            "price": 1200
+                            "price": 1500
                         },
                         {
                             "name": "Tuner",
-                            "price": 1200
+                            "price": 1000
                         },
                         {
                             "name": "High End",
-                            "price": 1600
+                            "price": 1500
                         },
                         {
                             "name": "BennysOriginal",
@@ -71,7 +60,7 @@
                         },
                         {
                             "name": "BennysBespoke",
-                            "price": 2500
+                            "price": 2000
                         },
                         {
                             "name": "Street",
@@ -81,7 +70,7 @@
                 },
                 {
                     "name": "Felgen umlackieren",
-                    "price": 350
+                    "price": 500
                 }
             ]
         },
@@ -110,11 +99,11 @@
                 },
                 {
                     "name": "Auspuff",
-                    "price": 500
+                    "price": 250
                 },
                 {
                     "name": "Spoiler",
-                    "price": 500
+                    "price": 250
                 }
             ]
         },
@@ -123,11 +112,11 @@
             "items": [
                 {
                     "name": "Rahmen",
-                    "price": 1500
+                    "price": 500
                 },
                 {
                     "name": "Gitter",
-                    "price": 150
+                    "price": 250
                 },
                 {
                     "name": "Motorhaube",
@@ -135,11 +124,12 @@
                 },
                 {
                     "name": "Dach",
-                    "price": 800
+                    "price": 500
                 },
                 {
                     "name": "Livery",
-                    "price": 1500
+                    "price": 1500,
+                    "isAffectedByMultiplier": true
                 }
             ]
         },
@@ -148,7 +138,49 @@
             "items": [
                 {
                     "name": "Motor",
-                    "prices": [
+                    "price": [
+                        {
+                            "name": "Einbauen",
+                            "price": 6000
+                        },
+                        {
+                            "name": "Stufe Anpassen",
+                            "price": 1500
+                        }
+                    ],
+                    "isAffectedByMultiplier": true
+                },
+                {
+                    "name": "Bremsen",
+                    "price": [
+                        {
+                            "name": "Einbauen",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Stufe Anpassen",
+                            "price": 850
+                        }
+                    ],
+                    "isAffectedByMultiplier": true
+                },
+                {
+                    "name": "Getriebe",
+                    "price": [
+                        {
+                            "name": "Einbauen",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Stufe Anpassen",
+                            "price": 850
+                        }
+                    ],
+                    "isAffectedByMultiplier": true
+                },
+                {
+                    "name": "Federung",
+                    "price": [
                         {
                             "name": "Einbauen",
                             "price": 4000
@@ -161,50 +193,8 @@
                     "isAffectedByMultiplier": true
                 },
                 {
-                    "name": "Bremsen",
-                    "prices": [
-                        {
-                            "name": "Einbauen",
-                            "price": 750
-                        },
-                        {
-                            "name": "Stufe Anpassen",
-                            "price": 200
-                        }
-                    ],
-                    "isAffectedByMultiplier": true
-                },
-                {
-                    "name": "Getriebe",
-                    "prices": [
-                        {
-                            "name": "Einbauen",
-                            "price": 1500
-                        },
-                        {
-                            "name": "Stufe Anpassen",
-                            "price": 350
-                        }
-                    ],
-                    "isAffectedByMultiplier": true
-                },
-                {
-                    "name": "Federung",
-                    "prices": [
-                        {
-                            "name": "Einbauen",
-                            "price": 2000
-                        },
-                        {
-                            "name": "Stufe Anpassen",
-                            "price": 500
-                        }
-                    ],
-                    "isAffectedByMultiplier": true
-                },
-                {
                     "name": "Turbo",
-                    "price": 1000,
+                    "price": 4000,
                     "isAffectedByMultiplier": true
                 }
             ]
@@ -218,7 +208,7 @@
                 },
                 {
                     "name": "Trim",
-                    "price": 1500
+                    "price": 1000
                 },
                 {
                     "name": "Trim Color",
@@ -226,15 +216,15 @@
                 },
                 {
                     "name": "Hydraulik",
-                    "price": 7500
-                },
-                {
-                    "name": "Xenon",
                     "price": 250
                 },
                 {
+                    "name": "Xenon",
+                    "price": 750
+                },
+                {
                     "name": "Nummernschild",
-                    "price": 100
+                    "price": 250
                 }
             ]
         },
@@ -243,7 +233,7 @@
             "items": [
                 {
                     "name": "Ornaments",
-                    "price": 100
+                    "price": 250
                 },
                 {
                     "name": "DialDesign",
@@ -255,11 +245,11 @@
                 },
                 {
                     "name": "ShiftLever",
-                    "price": 150
+                    "price": 250
                 },
                 {
                     "name": "Plaques",
-                    "price": 100
+                    "price": 250
                 },
                 {
                     "name": "DashboardColor",
@@ -280,7 +270,7 @@
                 },
                 {
                     "name": "Aerials",
-                    "price": 100
+                    "price": 250
                 }
             ]
         },
