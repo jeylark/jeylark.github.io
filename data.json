@@ -70,7 +70,7 @@
                 },
                 {
                     "name": "Felgen umlackieren",
-                    "price": 500
+                    "price": 250
                 }
             ]
         },
@@ -128,7 +128,7 @@
                 },
                 {
                     "name": "Livery",
-                    "price": 1500,
+                    "price": 1000,
                     "isAffectedByMultiplier": true
                 }
             ]
@@ -204,19 +204,19 @@
             "items": [
                 {
                     "name": "Fenster",
-                    "price": 750
+                    "price": 600
                 },
                 {
                     "name": "Trim",
-                    "price": 1000
+                    "price": 500
                 },
                 {
                     "name": "Trim Color",
-                    "price": 1000
+                    "price": 500
                 },
                 {
                     "name": "Hydraulik",
-                    "price": 250
+                    "price": 1000
                 },
                 {
                     "name": "Xenon",
@@ -233,27 +233,27 @@
             "items": [
                 {
                     "name": "Ornaments",
-                    "price": 250
+                    "price": 500
                 },
                 {
                     "name": "DialDesign",
-                    "price": 250
+                    "price": 500
                 },
                 {
                     "name": "SteeringWheel",
-                    "price": 250
+                    "price": 500
                 },
                 {
                     "name": "ShiftLever",
-                    "price": 250
+                    "price": 500
                 },
                 {
                     "name": "Plaques",
-                    "price": 250
+                    "price": 500
                 },
                 {
                     "name": "DashboardColor",
-                    "price": 1000
+                    "price": 500
                 }
             ]
         },
@@ -262,15 +262,15 @@
             "items": [
                 {
                     "name": "Trunks",
-                    "price": 250
+                    "price": 500
                 },
                 {
                     "name": "ArchCovers",
-                    "price": 250
+                    "price": 500
                 },
                 {
                     "name": "Aerials",
-                    "price": 250
+                    "price": 500
                 }
             ]
         },
@@ -279,7 +279,7 @@
             "items": [
                 {
                     "name": "Einbauen (neu)",
-                    "price": 1500
+                    "price": 1000
                 },
                 {
                     "name": "Farbe ändern",
