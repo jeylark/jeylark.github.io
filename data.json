@@ -65,7 +65,11 @@
                         {
                             "name": "Street",
                             "price": 1500
-                        }
+                        },
+						{
+							"name": "TrackDrift",
+							"price": 5000
+						}
                     ],
 					"isAffectedByMultiplier": true
                 },
